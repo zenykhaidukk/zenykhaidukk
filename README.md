@@ -1,16 +1,21 @@
-### Hi there 👋
+# Zenyk Haiduk: JS fella
 
-<!--
-**zenykhaidukk/zenykhaidukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Abstract
+I'm a fullstack web developer. Right now focusing on BE technologies.
+- I’m currently a Frontend developer at [SOLO](https://solo.one). :computer:
+- Located in Lviv, Ukraine. Dreaming of traveling all around the world. :earth_americas:
+- IoT student. :school:
+- Interested in football and any cybersport. :soccer:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Specifications
+| *Name \ Familiarity* | High | Medium/Low |
+| --------------- | --------------- | ------------- |
+| **Languages(programming)** | JS, Typescript | Python, Java |
+| **Frameworks/Platforms** | React, Next.js, Express.js, Mongodb, Mongoose | Vue.js |
+| **Languages(human)** | Ukrainian, English |   |
+| **Other interests** | Technologies, AI | Sports |
+
+
+## Quotes
+> Stay hungry, stay foolish. - Steve Jobs
