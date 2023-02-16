@@ -12,7 +12,7 @@ I'm a fullstack web developer. Right now focusing on BE technologies.
 | *Name \ Familiarity* | High | Medium/Low |
 | --------------- | --------------- | ------------- |
 | **Languages(programming)** | JS, Typescript | Python, Java |
-| **Frameworks/Platforms** | React, Next.js, Express.js, Mongodb, Mongoose | Vue.js |
+| **Frameworks/Platforms** | React, Next.js, Express.js, Mongodb, Mongoose | Vue.js, AWS, Heroku, Firebase |
 | **Languages(human)** | Ukrainian, English |   |
 | **Other interests** | Technologies, AI | Sports |
 
