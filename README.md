@@ -1,7 +1,7 @@
 # Zenyk Haiduk: JS fella
 
 ## Abstract
-I'm a fullstack web developer. Right now focusing on BE technologies.
+I'm a JS web developer.
 - I’m currently a Frontend developer at [SOLO](https://solo.one). :computer:
 - Located in Lviv, Ukraine. Dreaming of traveling all around the world. :earth_americas:
 - IoT bachelor. :school:
