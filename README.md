@@ -4,7 +4,7 @@
 I'm a fullstack web developer. Right now focusing on BE technologies.
 - I’m currently a Frontend developer at [SOLO](https://solo.one). :computer:
 - Located in Lviv, Ukraine. Dreaming of traveling all around the world. :earth_americas:
-- IoT student. :school:
+- IoT bachelor. :school:
 - Interested in football and any cybersport. :soccer:
 
 
